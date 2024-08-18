@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/nicholastay/passport-discord#readme",
   "dependencies": {
-    "passport-oauth2": "^1.5.0"
+    "passport-oauth2": "git+https://github.com/Pospelove/passport-oauth2.git#107e7fd3c2bac9cbc1a3990a8dc39e7bd290f360"
   }
 }
